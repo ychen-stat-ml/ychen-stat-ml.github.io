@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Computational Machine Intelligence"
-description              : "The homepage of Yifan Chen. "
+description              : # "The homepage of Yifan Chen. "
 repository               : "ychen-stat-ml/ychen-stat-ml.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yifan Chen"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Hong Kong Baptist University"
+  bio              : "Incoming Assistant Professor at Hong Kong Baptist University"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 

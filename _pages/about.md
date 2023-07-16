@@ -34,17 +34,27 @@ I especially focus on <strong>non-parametric models</strong> and neural networks
 # 🔥 News
 - *2023.04*: &nbsp;🎉🎉 Two papers were accepted to ICML 2023!
 
-# 📝 Publications 
+# 📝 Publications (* Co-first author, :envelope: Corresponding author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+	<div class='paper-box-image'>
+		<div>
+			<div class="badge">ICML 2023</div>
+			<img src='images/500x300.png' alt="sym" width="100%">
+		</div>
+	</div>
+	<div class='paper-box-text' markdown="1">
 
 [A Gromov--Wasserstein Geometric View of Spectrum-Preserving Graph Coarsening](https://arxiv.org/abs/2306.08854)
 
 **Yifan Chen**, Rentian Yao, Yun Yang, Jie Chen
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+	</div>
 </div>
-</div>
+
+<div class="badge">ICML 2023</div> [NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning](test)
+
+Tianxin Wei*, Zeming Guo*, **Yifan Chen***:envelope:, Jingrui He:envelope:
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
