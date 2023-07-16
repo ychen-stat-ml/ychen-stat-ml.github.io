@@ -36,7 +36,7 @@ I especially focus on <strong>non-parametric models</strong> and neural networks
 
 # 📝 Publications (* Co-first author, ✉️ Corresponding author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Gromov--Wasserstein Geometric View of Spectrum-Preserving Graph Coarsening](https://arxiv.org/abs/2306.08854)
@@ -46,9 +46,9 @@ I especially focus on <strong>non-parametric models</strong> and neural networks
 </div>
 </div>
 
-- ``ICML 2023`` [NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning](https://github.com/)
+- <div><div class="badge">ICML 2023</div> [NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning](https://github.com/)</div>
 
-Tianxin Wei*, Zeming Guo*, **Yifan Chen***✉️, Jingrui He✉️
+Tianxin Wei\*, Zeming Guo\*, **Yifan Chen**\*✉️, Jingrui He✉️
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
