@@ -46,7 +46,7 @@ I especially focus on <strong>non-parametric models</strong> and neural networks
 </div>
 </div>
 
-- ``ICML 2023`` [NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning](https://github.com/)</div>
+- ``ICML 2023`` [NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning](https://github.com/)
 
 Tianxin Wei\*, Zeming Guo\*, **Yifan Chen**\*✉️, Jingrui He✉️
 
