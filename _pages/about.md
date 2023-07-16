@@ -34,7 +34,7 @@ I especially focus on <strong>non-parametric models</strong> and neural networks
 # 🔥 News
 - *2023.04*: &nbsp;🎉🎉 Two papers were accepted to ICML 2023!
 
-# 📝 Publications (* Co-first author, :envelope: Corresponding author)
+# 📝 Publications (* Co-first author, ✉️ Corresponding author)
 
 <div class='paper-box'>
 	<div class='paper-box-image'>
@@ -54,7 +54,7 @@ I especially focus on <strong>non-parametric models</strong> and neural networks
 
 <div class="badge">ICML 2023</div> [NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning](test)
 
-Tianxin Wei*, Zeming Guo*, **Yifan Chen***:envelope:, Jingrui He:envelope:
+Tianxin Wei*, Zeming Guo*, **Yifan Chen***✉️, Jingrui He✉️
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
