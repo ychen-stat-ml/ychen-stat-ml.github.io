@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey, I am Yifan Chen, an incoming Assistant Professor in Computer Science and Mathematics (by courtesy) at Hong Kong Baptist University. 
+Hey, I am Yifan Chen, an incoming Assistant Professor in Computer Science at Hong Kong Baptist University. 
 
 I obtained my Ph.D. degree from Department of Statistics, University of Illinois Urbana-Champaign in 2023, advised by Prof. <a href="https://sites.google.com/site/yunyangstat/">Yun Yang</a>. 
 I fortunately work with Prof. <a href="https://sites.google.com/site/yunyangstat/">Yun Yang</a>, 
@@ -32,11 +32,13 @@ I especially focus on <strong>non-parametric models</strong> and neural networks
 
 
 # 🔥 News
+- *2023.07*: I am looking for self-motivated **(visiting) Ph.D. students / (remote) research assistants** to work with me on machine learning. Fellowships / salaries are provided to qualified candidates. Any interested applicants can directly send me your **CV** and a brief introduction to your **research interest** to "ychen.stat.ML@outlook.com".
+- *2023.04*: &nbsp;🎉🎉 I will join CS @ Hong Kong Baptist University as an assistant professor in Fall 2023. 
 - *2023.04*: &nbsp;🎉🎉 Two papers were accepted to ICML 2023!
 
 # 📝 Publications (* Co-first author, ✉️ Corresponding author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Gromov--Wasserstein Geometric View of Spectrum-Preserving Graph Coarsening](https://arxiv.org/abs/2306.08854)
@@ -44,23 +46,33 @@ I especially focus on <strong>non-parametric models</strong> and neural networks
 **Yifan Chen**, Rentian Yao, Yun Yang, Jie Chen
 
 </div>
-</div>
+</div> -->
 
-- ``ICML 2023`` [NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning](https://github.com/)
-
+- ``ICML 2023`` [A Gromov--Wasserstein Geometric View of Spectrum-Preserving Graph Coarsening](https://proceedings.mlr.press/v202/chen23ak.html)  
+**Yifan Chen**, Rentian Yao, Yun Yang, Jie Chen
+- ``ICML 2023`` [NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning](https://proceedings.mlr.press/v202/wei23b.html)  
 Tianxin Wei\*, Zeming Guo\*, **Yifan Chen**\*✉️, Jingrui He✉️
+- ``TMLR`` [Calibrate and Debias Layer-wise Sampling for Graph Convolutional Networks](https://openreview.net/forum?id=JyKNuoZGux)  
+**Yifan Chen**\*, Tianning Xu\*, Dilek Hakkani-Tur, Di Jin, Yun Yang, Ruoqing Zhu. Transactions on Machine Learning Research (TMLR), 2023.
+- ``EMNLP 2022`` <span style="color:red">(Oral)</span> [Inducer-tuning: Connecting Prefix-tuning and Adapter-tuning](https://aclanthology.org/2022.emnlp-main.50/)  
+**Yifan Chen**\*, Devamanyu Hazarika\*, Mahdi Namazifar, Yang Liu, Di Jin, Dilek Hakkani-Tur
+- ``NAACL 2022`` <span style="color:red">(Oral)</span> [Sketching as a Tool for Understanding and Accelerating Self-attention for Long Sequences](https://aclanthology.org/2022.naacl-main.381/)  
+**Yifan Chen**\*, Qi Zeng\*, Dilek Hakkani-Tur, Di Jin, Heng Ji, Yun Yang
+- ``NAACL 2022`` (Findings) [Empowering parameter-efficient transfer learning by recognizing the kernel structure in self-attention](https://aclanthology.org/2022.findings-naacl.102/)  
+**Yifan Chen**\*, Devamanyu Hazarika\*, Mahdi Namazifar, Yang Liu, Di Jin, Dilek Hakkani-Tur
+- ``NeurIPS 2021`` [Skyformer: Remodel Self-Attention with Gaussian Kernel and Nystr\"om Method](https://proceedings.neurips.cc/paper/2021/hash/10a7cdd970fe135cf4f7bb55c0e3b59f-Abstract.html)  
+**Yifan Chen**\*, Qi Zeng\*, Heng Ji, Yun Yang
+- ``AISTATS 2021`` [Accumulations of Projections—A Unified Framework for Random Sketches in Kernel Ridge Regression](http://proceedings.mlr.press/v130/chen21f.html)  
+**Yifan Chen**, Yun Yang
+- ``AISTATS 2021`` [Fast Statistical Leverage Score Approximation in Kernel Ridge Regression](https://proceedings.mlr.press/v130/chen21e.html)  
+**Yifan Chen**, Yun Yang
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.05* Dissertation Completion Fellowships (gratefully declined due to early graduation), USD **$25,000**, University of Illinois Graduate College
+- *2023.05* The Fortieth International Conference on Machine Learning (ICML 2023) Grant Award, USD **$1,500**
+- *2018.06* Shanghai Outstanding Graduate, Shanghai Municipal Education Commission
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Professional Talks
+- *2022.08*, One Expert with Multiple Instruments, Microsoft Azure internal talk, Remote
+- *2022.08*, Sketching as a Tool for Understanding and Accelerating Self-attention for Long Sequences, AI Time PhD NAACL Special Session, Remote
+- *2021.12*, Empowering parameter-efficient transfer learning by recognizing the kernel structure in self-attention, Amazon Alexa AI internal talk, Sunnyvale, CA, USA

@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Computational Machine Intelligence"
-description              : # "The homepage of Yifan Chen. "
+title                    : "Yifan Chen"
+description              : "Computational Machine Intelligence"
 repository               : "ychen-stat-ml/ychen-stat-ml.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yifan Chen"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Incoming Assistant Professor at Hong Kong Baptist University"
+  name             : "Yifan Chen (陈奕帆)"
+  avatar           : "images/avatar_yf.jpg"
+  bio              : "Assistant Professor in CS at HKBU"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cv               : "docs/CV.pdf"
 
 
 # Reading Files
@@ -64,8 +65,8 @@ include:
   - .htaccess
   - _pages
   - files
-exclude:
   - docs
+exclude:
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
