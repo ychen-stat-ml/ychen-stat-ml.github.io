@@ -27,6 +27,8 @@ and Prof. <a href="https://ischool.illinois.edu/people/jingrui-he/">Jingrui He</
 I also collaborated with <a href="https://www.linkedin.com/in/dilek-hakkani-tur-9517543/">Dilek Hakkani-Tur</a> at Amazon Alexa AI, and <a href="https://research.ibm.com/people/jie-chen">Jie Chen</a> at IBM Research.
 Before that, I received my B.S. degree in Statistics from Fudan University in 2018, advised by Prof. <a href="https://www.fdsm.fudan.edu.cn/en/teacher/preview.aspx?UID=141685">Juan Shen</a> and Prof. <a href="https://www.fdsm.fudan.edu.cn/en/teacher/preview.aspx?UID=1859">Chenghong Zhang</a>.
 
+# 💻 Research
+
 I am broadly interested in the general area of **efficient machine learning**, aiming to understand the statistical structures of modern machine learning algorithms and apply these insights to real-world computational challenges.
 I especially focus on <strong>non-parametric models</strong> and neural networks with intensive matrix operations, such as <strong>Transformers</strong> (language models) and graph neural networks (<strong>GNNs</strong>).
 
@@ -36,7 +38,9 @@ I especially focus on <strong>non-parametric models</strong> and neural networks
 - *2023.04*: &nbsp;🎉🎉 I will join CS @ Hong Kong Baptist University as an assistant professor in Fall 2023. 
 - *2023.04*: &nbsp;🎉🎉 Two papers were accepted to ICML 2023!
 
-# 📝 Publications (* Co-first author, ✉️ Corresponding author)
+# 📝 Publications
+
+\* Co-first author, ✉️ Corresponding author
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
