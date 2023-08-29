@@ -77,6 +77,8 @@ Tianxin Wei\*, Zeming Guo\*, **Yifan Chen**\*✉️, Jingrui He✉️
 - *2018.06* Shanghai Outstanding Graduate, Shanghai Municipal Education Commission
 
 # 💬 Professional Talks
+- *2023.08*, A Gromov--Wasserstein Geometric View of Spectrum-Preserving Graph Coarsening, HKBU Math department invited talk, Hong Kong
+- *2023.08*, NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning, the 1st International Conference on AI-generated Content (AIGC2023) invited talk, Remote
 - *2022.08*, One Expert with Multiple Instruments, Microsoft Azure internal talk, Remote
 - *2022.08*, Sketching as a Tool for Understanding and Accelerating Self-attention for Long Sequences, AI Time PhD NAACL Special Session, Remote
 - *2021.12*, Empowering parameter-efficient transfer learning by recognizing the kernel structure in self-attention, Amazon Alexa AI internal talk, Sunnyvale, CA, USA
