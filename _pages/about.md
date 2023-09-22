@@ -53,7 +53,7 @@ I especially focus on <strong>non-parametric models</strong> and neural networks
 </div>
 </div> -->
 
-- ``NeurIPS 2023`` [A Gromov--Wasserstein Geometric View of Spectrum-Preserving Graph Coarsening]
+- ``NeurIPS 2023`` [Hypervolume Maximization: A Geometric View of Pareto Set Learning]()
 Xiaoyuan Zhang, **Yifan Chen**✉️, Bo Xue, Xi Lin, Qingfu Zhang✉️
 - ``ICML 2023`` [A Gromov--Wasserstein Geometric View of Spectrum-Preserving Graph Coarsening](https://proceedings.mlr.press/v202/chen23ak.html)  
 **Yifan Chen**, Rentian Yao, Yun Yang, Jie Chen
