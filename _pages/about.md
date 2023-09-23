@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey, I am Yifan Chen, an incoming Assistant Professor in Computer Science at Hong Kong Baptist University. 
+Hey, I am Yifan Chen, an incoming Assistant Professor in Computer Science and Mathematics (affiliate) at Hong Kong Baptist University. 
 
 I obtained my Ph.D. degree from Department of Statistics, University of Illinois Urbana-Champaign in 2023, advised by Prof. <a href="https://sites.google.com/site/yunyangstat/">Yun Yang</a>. 
 I fortunately work with Prof. <a href="https://sites.google.com/site/yunyangstat/">Yun Yang</a>, 
