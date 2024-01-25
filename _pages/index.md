@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey, I am Yifan Chen, an incoming Assistant Professor in Computer Science and Mathematics (affiliate) at Hong Kong Baptist University. 
+Hey, I am Yifan Chen, an Assistant Professor in Computer Science and Mathematics (affiliate) at Hong Kong Baptist University. 
 
 I obtained my Ph.D. degree from Department of Statistics, University of Illinois Urbana-Champaign in 2023, advised by Prof. <a href="https://sites.google.com/site/yunyangstat/">Yun Yang</a>. 
 I fortunately work with Prof. <a href="https://sites.google.com/site/yunyangstat/">Yun Yang</a>, 
@@ -31,6 +31,17 @@ Before that, I received my B.S. degree in Statistics from Fudan University in 20
 
 I am broadly interested in the general area of **efficient machine learning**, aiming to understand the statistical structures of modern machine learning algorithms and apply these insights to real-world computational challenges.
 I especially focus on <strong>non-parametric models</strong> and neural networks with intensive matrix operations, such as <strong>Transformers</strong> (language models) and graph neural networks (<strong>GNNs</strong>).
+
+
+# 🕮 Teaching
+
+## Spring 24: COMP 7070 Advanced Topics in Artificial Intelligence and Machine Learning
+
+Overall, this course is an invitation to core machine learning for **AI application research**. It aims to familiarize the students with useful concepts in machine learning, and therefore to benefit their own research.
+
+> Studies related to machine learning is implicitly divided into three genres in this statement: learning theory, core machine learning, and AI application.
+
+Scribed lecture notes can be found on [this page](/teaching.html).
 
 
 # 🔥 News
@@ -54,7 +65,7 @@ I especially focus on <strong>non-parametric models</strong> and neural networks
 </div> -->
 
 - ``NeurIPS 2023`` [Hypervolume Maximization: A Geometric View of Pareto Set Learning]()  
-Xiaoyuan Zhang, **Yifan Chen**✉️, Bo Xue, Xi Lin, Qingfu Zhang✉️
+Xiaoyuan Zhang, Bo Xue, Xi Lin, **Yifan Chen**✉️, Qingfu Zhang✉️
 - ``ICML 2023`` [A Gromov--Wasserstein Geometric View of Spectrum-Preserving Graph Coarsening](https://proceedings.mlr.press/v202/chen23ak.html)  
 **Yifan Chen**, Rentian Yao, Yun Yang, Jie Chen
 - ``ICML 2023`` [NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning](https://proceedings.mlr.press/v202/wei23b.html)  
