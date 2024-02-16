@@ -64,7 +64,7 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 </div>
 </div> -->
 
-- ``NeurIPS 2023`` [Hypervolume Maximization: A Geometric View of Pareto Set Learning]()  
+- ``NeurIPS 2023`` [Hypervolume Maximization: A Geometric View of Pareto Set Learning](https://nips.cc/virtual/2023/poster/72581)  
 Xiaoyuan Zhang, Bo Xue, Xi Lin, **Yifan Chen**✉️, Qingfu Zhang✉️
 - ``ICML 2023`` [A Gromov--Wasserstein Geometric View of Spectrum-Preserving Graph Coarsening](https://proceedings.mlr.press/v202/chen23ak.html)  
 **Yifan Chen**, Rentian Yao, Yun Yang, Jie Chen
