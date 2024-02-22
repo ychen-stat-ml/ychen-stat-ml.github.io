@@ -45,7 +45,7 @@ Note that the detailed lecture schedule may change as the semester progresses, b
 
 - Lecture 1: Preliminaries [🗈](/docs/7070/01.pdf)
 - Lecture 2: Numerical Analysis (TBD)
-- Lecture 3: Regularization and Logistic Regression [🗈](/docs/7070/02.pdf) (a thorough revisit of the softmax classifier)
-- Lecture 4: Convex Optimization and the Convergence Rate of GD/SGD (TBD)
+- Lecture 3: Regularization and Logistic Regression [🗈](/docs/7070/03.pdf) (a thorough revisit of the softmax classifier)
+- Lecture 4: Convex Optimization and the Convergence Rate of GD/SGD [🗈](/docs/7070/04.pdf)
 - Lecture 5: Concentration Inequalities and SubGaussian Random Variables (TBD)
 - Lecture 6: JL Lemma and Sketching Methods (TBD)
