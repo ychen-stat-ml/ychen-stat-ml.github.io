@@ -28,15 +28,12 @@ Overall, this course is an invitation to core machine learning for **AI applicat
 
 
 - Harness the power of randomness
-    - SubGaussian random variables
-    - Concentration inequalities
+    - SubGaussian random variables and concentration inequalities
     - Sketching methods
-    - Complexity of function class
-    - Error decomposition (approximation, optimization, and generalization)
+    - Error decomposition (approximation, optimization, and generalization) and concentration bound for generalization error
 
 - Advanced topics
-    - Kernel tricks and RKHS
-    - Neural tangent kernels
+    - Kernel tricks, RKHS and neural tangent kernels
     - Generative modeling (MLE - EM algorithm - VI - VAE - GAN/WGAN - Flow - Diffusion)
 
 Note that the detailed lecture schedule may change as the semester progresses, based on student interest.
@@ -44,7 +41,7 @@ Note that the detailed lecture schedule may change as the semester progresses, b
 ## Scribed lecture notes
 
 - Lecture 1: Preliminaries [🗈](/docs/7070/01.pdf)
-- Lecture 2: Numerical Analysis (TBD)
+- Lecture 2: Numerical Analysis [🗈](/docs/7070/02.pdf) (matrix derivation and basics of numerical analysis, such as condition number, operator norm, SVD, etc.)
 - Lecture 3: Regularization and Logistic Regression [🗈](/docs/7070/03.pdf) (a thorough revisit of the softmax classifier)
 - Lecture 4: Convex Optimization and the Convergence Rate of GD/SGD [🗈](/docs/7070/04.pdf)
 - Lecture 5: Concentration Inequalities and SubGaussian Random Variables (TBD)
