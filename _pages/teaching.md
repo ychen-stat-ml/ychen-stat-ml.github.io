@@ -33,7 +33,7 @@ Overall, this course is an invitation to core machine learning for **AI applicat
     - Error decomposition (approximation, optimization, and generalization) and concentration bound for generalization error
 
 - Advanced topics
-    - Kernel tricks, RKHS and neural tangent kernels
+    - Kernel tricks, RKHS, and neural tangent kernels
     - Generative modeling (MLE - EM algorithm - VI - VAE - GAN/WGAN - Flow - Diffusion)
 
 Note that the detailed lecture schedule may change as the semester progresses, based on student interest.
@@ -44,5 +44,7 @@ Note that the detailed lecture schedule may change as the semester progresses, b
 - Lecture 2: Numerical Analysis [🗈](/docs/7070/02.pdf) (matrix derivation and basics of numerical analysis, such as condition number, operator norm, SVD, etc.)
 - Lecture 3: Regularization and Logistic Regression [🗈](/docs/7070/03.pdf) (a thorough revisit of the softmax classifier)
 - Lecture 4: Convex Optimization and the Convergence Rate of GD/SGD [🗈](/docs/7070/04.pdf)
-- Lecture 5: Concentration Inequalities and SubGaussian Random Variables (TBD)
-- Lecture 6: JL Lemma and Sketching Methods (TBD)
+- Lecture 5: Concentration Inequalities and SubGaussian Random Variables [🗈](/docs/7070/05.pdf)
+- Lecture 6: JL Lemma and Sketching Methods [🗈](/docs/7070/06.pdf)
+- Lecture 7: Generalization Error [🗈](/docs/7070/07.pdf)
+- Lecture 8: Kernel tricks and RKHS [🗈](/docs/7070/08.pdf)
