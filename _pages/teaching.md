@@ -47,4 +47,7 @@ Note that the detailed lecture schedule may change as the semester progresses, b
 - Lecture 5: Concentration Inequalities and SubGaussian Random Variables [🗈](/docs/7070/05.pdf)
 - Lecture 6: JL Lemma and Sketching Methods [🗈](/docs/7070/06.pdf)
 - Lecture 7: Generalization Error [🗈](/docs/7070/07.pdf)
-- Lecture 8: Kernel tricks and RKHS [🗈](/docs/7070/08.pdf)
+- Lecture 8: Kernel Tricks and RKHS [🗈](/docs/7070/08.pdf)
+- Lecture 9: VAE [🗈](/docs/7070/09.pdf)
+- Lecture 10: GAN, WGAN, and duality [🗈](/docs/7070/10.pdf)
+- Lecture 11: Flow Models and Neural ODE [🗈](/docs/7070/11.pdf)
