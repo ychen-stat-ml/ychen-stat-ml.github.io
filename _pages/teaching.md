@@ -51,3 +51,5 @@ Note that the detailed lecture schedule may change as the semester progresses, b
 - Lecture 9: VAE [🗈](/docs/7070/09.pdf)
 - Lecture 10: GAN, WGAN, and duality [🗈](/docs/7070/10.pdf)
 - Lecture 11: Flow Models and Neural ODE [🗈](/docs/7070/11.pdf)
+- Lecture 12: From VAE to Diffusion Models [🗈](/docs/7070/12.pdf)
+- Lecture 13: Variants and Advances of Diffusion Models [🗈](/docs/7070/13.pdf)
