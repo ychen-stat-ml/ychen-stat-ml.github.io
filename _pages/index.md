@@ -24,7 +24,7 @@ I fortunately work with Prof. <a href="https://sites.google.com/site/yunyangstat
 Prof. <a href="https://stat.illinois.edu/directory/profile/rqzhu/">Ruoqing Zhu</a>, 
 Prof. <a href="https://cs.illinois.edu/about/people/faculty/hengji/">Heng Ji</a>,
 and Prof. <a href="https://ischool.illinois.edu/people/jingrui-he/">Jingrui He</a> during my Ph.D. studies.
-I also collaborated with <a href="https://www.linkedin.com/in/dilek-hakkani-tur-9517543/">Dilek Hakkani-Tur</a> at Amazon Alexa AI, and <a href="https://research.ibm.com/people/jie-chen">Jie Chen</a> at IBM Research.
+I also collaborated with Prof. <a href="https://www.linkedin.com/in/dilek-hakkani-tur-9517543/">Dilek Hakkani-Tur</a> at Amazon Alexa AI, and Dr. <a href="https://research.ibm.com/people/jie-chen">Jie Chen</a> at IBM Research.
 Before that, I received my B.S. degree in Statistics from Fudan University in 2018, advised by Prof. <a href="https://www.fdsm.fudan.edu.cn/en/teacher/preview.aspx?UID=141685">Juan Shen</a> and Prof. <a href="https://www.fdsm.fudan.edu.cn/en/teacher/preview.aspx?UID=1859">Chenghong Zhang</a>.
 
 # 💻 Research
