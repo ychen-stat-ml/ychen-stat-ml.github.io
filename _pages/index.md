@@ -45,6 +45,7 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 Honored to receive the proposal grant RGC Early Career Scheme 2425.
 - *2023.09*: &nbsp;🎉🎉 One paper was accepted to NeurIPS 2023! Congratulations to Xiaoyuan and other collaborators from Prof. Qingfu Zhang's group at CityU!
 - *2023.07*: I am looking for self-motivated **(visiting) Ph.D. students / (remote) research assistants** to work with me on machine learning. Fellowships / salaries are provided to qualified candidates. Any interested applicants can directly send me your **CV** and a brief introduction to your **research interest** to "ychen.stat.ML@outlook.com". Please refer to the [Zhihu post](https://zhuanlan.zhihu.com/p/651070296) for more details.
 - *2023.04*: &nbsp;🎉🎉 I will join CS @ Hong Kong Baptist University as an assistant professor in Fall 2023. 
