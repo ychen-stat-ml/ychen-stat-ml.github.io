@@ -35,6 +35,8 @@ I especially focus on <strong>non-parametric models</strong> and neural networks
 
 # 🕮 Teaching
 
+## Fall 24: COMP 2027 Applied Linear Algebra for Computing
+
 ## Spring 24: COMP 7070 Advanced Topics in Artificial Intelligence and Machine Learning
 
 Overall, this course is an invitation to core machine learning for **AI application research**. It aims to familiarize the students with useful concepts in machine learning, and therefore to benefit their own research.
@@ -45,10 +47,14 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Honored to receive the proposal grant RGC Early Career Scheme 2425.
+
+- *2024.11*: &nbsp;🎉🎉 Two papers were accepted to KDD 2025! Congratulations to Prof. Jingrui He's group at UIUC!
+- *2024.10*: &nbsp;🎉🎉 Honored to be selected for funding by GDSTC General Program.
+- *2024.09*: &nbsp;🎉🎉 Two papers were accepted to NeurIPS 2024!
+- *2024.06*: &nbsp;🎉🎉 Honored to receive the proposal grant RGC Early Career Scheme.
 - *2023.09*: &nbsp;🎉🎉 One paper was accepted to NeurIPS 2023! Congratulations to Xiaoyuan and other collaborators from Prof. Qingfu Zhang's group at CityU!
 - *2023.07*: I am looking for self-motivated **(visiting) Ph.D. students / (remote) research assistants** to work with me on machine learning. Fellowships / salaries are provided to qualified candidates. Any interested applicants can directly send me your **CV** and a brief introduction to your **research interest** to "ychen.stat.ML@outlook.com". Please refer to the [Zhihu post](https://zhuanlan.zhihu.com/p/651070296) for more details.
-- *2023.04*: &nbsp;🎉🎉 I will join CS @ Hong Kong Baptist University as an assistant professor in Fall 2023. 
+- *2023.04*: &nbsp;🎉🎉 I will join CS (and Math) @ Hong Kong Baptist University as an assistant professor in Fall 2023. 
 - *2023.04*: &nbsp;🎉🎉 Two papers were accepted to ICML 2023!
 
 # 📝 Publications
@@ -65,6 +71,14 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 </div>
 </div> -->
 
+- ``KDD 2025`` [ResMoE: Space-efficient MoE Module Approximation via Wasserstein Barycenter and Residual Restoration](NA)  
+Mengting Ai\*, Tianxin Wei\*, **Yifan Chen**\*✉️, Zhichen Zeng, Ritchie Zhao, Girish Varatkar, Bita Darvish Rouhani, Xianfeng Tang, Hanghang Tong, Jingrui He✉️
+- ``KDD 2025`` [Connecting Domains for Enhanced Generalization: An Approach to Integrating Data and Model Information](NA)  
+Tianxin Wei\*, **Yifan Chen**\*, Xinrui He, Wenxuan Bao, Jingrui He✉️
+- ``NeurIPS 2024`` [Gliding over the Pareto Front with Uniform Designs](https://neurips.cc/virtual/2024/poster/94814)  
+Xiaoyuan Zhang, Genghui Li, Xi Lin, Yichi Zhang, **Yifan Chen**, Qingfu Zhang
+- ``NeurIPS 2024`` [LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch](https://neurips.cc/virtual/2024/poster/97588)  
+Xiaoyuan Zhang, Liang Zhao, Yingying Yu, Xi Lin, **Yifan Chen**, Han Zhao, Qingfu Zhang
 - ``NeurIPS 2023`` [Hypervolume Maximization: A Geometric View of Pareto Set Learning](https://nips.cc/virtual/2023/poster/72581)  
 Xiaoyuan Zhang, Bo Xue, Xi Lin, **Yifan Chen**✉️, Qingfu Zhang✉️
 - ``ICML 2023`` [A Gromov--Wasserstein Geometric View of Spectrum-Preserving Graph Coarsening](https://proceedings.mlr.press/v202/chen23ak.html)  
@@ -91,9 +105,9 @@ Tianxin Wei\*, Zeming Guo\*, **Yifan Chen**\*✉️, Jingrui He✉️
 - *2023.05* The Fortieth International Conference on Machine Learning (ICML 2023) Grant Award, USD **$1,500**
 - *2018.06* Shanghai Outstanding Graduate, Shanghai Municipal Education Commission
 
-# 💬 Professional Talks
+<!-- # 💬 Professional Talks
 - *2023.08*, A Gromov--Wasserstein Geometric View of Spectrum-Preserving Graph Coarsening, HKBU Math department invited talk, Hong Kong
 - *2023.08*, NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning, the 1st International Conference on AI-generated Content (AIGC2023) invited talk, Remote
 - *2022.08*, One Expert with Multiple Instruments, Microsoft Azure internal talk, Remote
 - *2022.08*, Sketching as a Tool for Understanding and Accelerating Self-attention for Long Sequences, AI Time PhD NAACL Special Session, Remote
-- *2021.12*, Empowering parameter-efficient transfer learning by recognizing the kernel structure in self-attention, Amazon Alexa AI internal talk, Sunnyvale, CA, USA
+- *2021.12*, Empowering parameter-efficient transfer learning by recognizing the kernel structure in self-attention, Amazon Alexa AI internal talk, Sunnyvale, CA, USA -->
