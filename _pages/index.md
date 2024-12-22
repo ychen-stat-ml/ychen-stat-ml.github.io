@@ -48,6 +48,7 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 
 # 🔥 News
 
+- *2024.12*: &nbsp;🎉🎉 One papers was accepted to AAAI 2025, and another to ICASSP 2025 (a comprehensive conference focused on signal processing and its applications)! Congratulations to Prof. Xiaoqiang Li's group at SHU and Tianyi!
 - *2024.11*: &nbsp;🎉🎉 Two papers were accepted to KDD 2025! Congratulations to Prof. Jingrui He's group at UIUC!
 - *2024.10*: &nbsp;🎉🎉 Honored to be selected for funding by GDSTC General Program.
 - *2024.09*: &nbsp;🎉🎉 Two papers were accepted to NeurIPS 2024!
@@ -59,7 +60,7 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 
 # 📝 Publications
 
-\* Co-first author, ✉️ Corresponding author
+\* Co-first author, ✍ Mentee, ✉️ Corresponding author
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -70,9 +71,12 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 
 </div>
 </div> -->
-
+- ``ICASSP 2025`` [Catch Causal Signals from Edges for Label Imbalance in Graph Classification](NA)  
+Fengrui Zhang\*✍, Yujia Yin\*✍, Hongzong Li, **Yifan Chen**✉️, Tianyi Qu✉️
+- ``AAAI 2025`` [Optimized Gradient Clipping for Noisy Label Learning](NA)  
+Xichen Ye✍, Yifan Wu✍, Weizhong Zhang, Xiaoqiang Li✉️, **Yifan Chen**✉️, Cheng Jin✉️
 - ``KDD 2025`` [ResMoE: Space-efficient MoE Module Approximation via Wasserstein Barycenter and Residual Restoration](NA)  
-Mengting Ai\*, Tianxin Wei\*, **Yifan Chen**\*✉️, Zhichen Zeng, Ritchie Zhao, Girish Varatkar, Bita Darvish Rouhani, Xianfeng Tang, Hanghang Tong, Jingrui He✉️
+Mengting Ai\*✍, Tianxin Wei\*, **Yifan Chen**\*✉️, Zhichen Zeng, Ritchie Zhao, Girish Varatkar, Bita Darvish Rouhani, Xianfeng Tang, Hanghang Tong, Jingrui He✉️
 - ``KDD 2025`` [Connecting Domains for Enhanced Generalization: An Approach to Integrating Data and Model Information](NA)  
 Tianxin Wei\*, **Yifan Chen**\*, Xinrui He, Wenxuan Bao, Jingrui He✉️
 - ``NeurIPS 2024`` [Gliding over the Pareto Front with Uniform Designs](https://neurips.cc/virtual/2024/poster/94814)  
@@ -84,7 +88,7 @@ Xiaoyuan Zhang, Bo Xue, Xi Lin, **Yifan Chen**✉️, Qingfu Zhang✉️
 - ``ICML 2023`` [A Gromov--Wasserstein Geometric View of Spectrum-Preserving Graph Coarsening](https://proceedings.mlr.press/v202/chen23ak.html)  
 **Yifan Chen**, Rentian Yao, Yun Yang, Jie Chen
 - ``ICML 2023`` [NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning](https://proceedings.mlr.press/v202/wei23b.html)  
-Tianxin Wei\*, Zeming Guo\*, **Yifan Chen**\*✉️, Jingrui He✉️
+Tianxin Wei\*, Zeming Guo\*✍, **Yifan Chen**\*✉️, Jingrui He✉️
 - ``TMLR`` [Calibrate and Debias Layer-wise Sampling for Graph Convolutional Networks](https://openreview.net/forum?id=JyKNuoZGux)  
 **Yifan Chen**\*, Tianning Xu\*, Dilek Hakkani-Tur, Di Jin, Yun Yang, Ruoqing Zhu. Transactions on Machine Learning Research (TMLR), 2023.
 - ``EMNLP 2022`` <span style="color:red">(Oral)</span> [Inducer-tuning: Connecting Prefix-tuning and Adapter-tuning](https://aclanthology.org/2022.emnlp-main.50/)  
