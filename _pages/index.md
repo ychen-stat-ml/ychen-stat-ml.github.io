@@ -71,14 +71,16 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 
 </div>
 </div> -->
-- ``ICASSP 2025`` [Catch Causal Signals from Edges for Label Imbalance in Graph Classification](NA)  
-Fengrui Zhang\*✍, Yujia Yin\*✍, Hongzong Li, **Yifan Chen**✉️, Tianyi Qu✉️
-- ``AAAI 2025`` [Optimized Gradient Clipping for Noisy Label Learning](NA)  
-Xichen Ye✍, Yifan Wu✍, Weizhong Zhang, Xiaoqiang Li✉️, **Yifan Chen**✉️, Cheng Jin
+
 <!-- - ``KDD 2025`` [ResMoE: Space-efficient MoE Module Approximation via Wasserstein Barycenter and Residual Restoration](NA)  
 Mengting Ai\*✍, Tianxin Wei\*, **Yifan Chen**\*✉️, Zhichen Zeng, Ritchie Zhao, Girish Varatkar, Bita Darvish Rouhani, Xianfeng Tang, Hanghang Tong, Jingrui He✉️
 - ``KDD 2025`` [Connecting Domains for Enhanced Generalization: An Approach to Integrating Data and Model Information](NA)  
 Tianxin Wei\*, **Yifan Chen**\*, Xinrui He, Wenxuan Bao, Jingrui He✉️ -->
+
+- ``ICASSP 2025`` [Catch Causal Signals from Edges for Label Imbalance in Graph Classification](NA)  
+Fengrui Zhang\*✍, Yujia Yin\*✍, Hongzong Li, **Yifan Chen**✉️, Tianyi Qu✉️
+- ``AAAI 2025`` [Optimized Gradient Clipping for Noisy Label Learning](NA)  
+Xichen Ye✍, Yifan Wu✍, Weizhong Zhang, Xiaoqiang Li✉️, **Yifan Chen**✉️, Cheng Jin
 - ``NeurIPS 2024`` [Gliding over the Pareto Front with Uniform Designs](https://neurips.cc/virtual/2024/poster/94814)  
 Xiaoyuan Zhang, Genghui Li, Xi Lin, Yichi Zhang, **Yifan Chen**, Qingfu Zhang
 - ``NeurIPS 2024`` [LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch](https://neurips.cc/virtual/2024/poster/97588)  
