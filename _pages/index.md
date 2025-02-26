@@ -49,7 +49,7 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 # 🔥 News
 
 - *2024.12*: &nbsp;🎉🎉 One papers was accepted to AAAI 2025, and another to ICASSP 2025 (a comprehensive conference focused on signal processing and its applications)! Congratulations to Prof. Xiaoqiang Li's group at SHU and Tianyi!
-- *2024.11*: &nbsp;🎉🎉 Two papers were accepted to KDD 2025! Congratulations to Prof. Jingrui He's group at UIUC!
+<!-- - *2024.11*: &nbsp;🎉🎉 Two papers were accepted to KDD 2025! Congratulations to Prof. Jingrui He's group at UIUC! -->
 - *2024.10*: &nbsp;🎉🎉 Honored to be selected for funding by GDSTC General Program.
 - *2024.09*: &nbsp;🎉🎉 Two papers were accepted to NeurIPS 2024!
 - *2024.06*: &nbsp;🎉🎉 Honored to receive the proposal grant RGC Early Career Scheme.
@@ -74,11 +74,11 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 - ``ICASSP 2025`` [Catch Causal Signals from Edges for Label Imbalance in Graph Classification](NA)  
 Fengrui Zhang\*✍, Yujia Yin\*✍, Hongzong Li, **Yifan Chen**✉️, Tianyi Qu✉️
 - ``AAAI 2025`` [Optimized Gradient Clipping for Noisy Label Learning](NA)  
-Xichen Ye✍, Yifan Wu✍, Weizhong Zhang, Xiaoqiang Li✉️, **Yifan Chen**✉️, Cheng Jin✉️
-- ``KDD 2025`` [ResMoE: Space-efficient MoE Module Approximation via Wasserstein Barycenter and Residual Restoration](NA)  
+Xichen Ye✍, Yifan Wu✍, Weizhong Zhang, Xiaoqiang Li✉️, **Yifan Chen**✉️, Cheng Jin
+<!-- - ``KDD 2025`` [ResMoE: Space-efficient MoE Module Approximation via Wasserstein Barycenter and Residual Restoration](NA)  
 Mengting Ai\*✍, Tianxin Wei\*, **Yifan Chen**\*✉️, Zhichen Zeng, Ritchie Zhao, Girish Varatkar, Bita Darvish Rouhani, Xianfeng Tang, Hanghang Tong, Jingrui He✉️
 - ``KDD 2025`` [Connecting Domains for Enhanced Generalization: An Approach to Integrating Data and Model Information](NA)  
-Tianxin Wei\*, **Yifan Chen**\*, Xinrui He, Wenxuan Bao, Jingrui He✉️
+Tianxin Wei\*, **Yifan Chen**\*, Xinrui He, Wenxuan Bao, Jingrui He✉️ -->
 - ``NeurIPS 2024`` [Gliding over the Pareto Front with Uniform Designs](https://neurips.cc/virtual/2024/poster/94814)  
 Xiaoyuan Zhang, Genghui Li, Xi Lin, Yichi Zhang, **Yifan Chen**, Qingfu Zhang
 - ``NeurIPS 2024`` [LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch](https://neurips.cc/virtual/2024/poster/97588)  
