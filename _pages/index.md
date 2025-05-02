@@ -82,7 +82,7 @@ Tianxin Wei\*, **Yifan Chen**\*, Xinrui He, Wenxuan Bao, Jingrui He✉️ -->
 - ``ICML 2025`` [A Recipe for Causal Graph Regression: Confounding Effects Revisited](NA)  
 Yujia Yin\*✍, Tianyi Qu\*✉️, Zihao Wang, **Yifan Chen**✉️
 - ``ICML 2025`` [Towards Robust Influence Functions with Flat Validation Minima](NA)  
-Xichen Ye✍, Yifan Wu✍, Cheng Jin✉️, Weizhong Zhang✉️, **Yifan Chen**✉️
+Xichen Ye✍, Yifan Wu✍, Weizhong Zhang✉️, Cheng Jin✉️, **Yifan Chen**✉️
 - ``ISIT 2025`` [Embedding Empirical Distributions for Computing Optimal Transport Maps](https://arxiv.org/abs/2504.17740)  
 Mingchen Jiang\*✍, Peng Xu\*✉️, Xichen Ye, Xiaohui Chen, Yun Yang, **Yifan Chen**✉️
 - ``ICASSP 2025`` [Catch Causal Signals from Edges for Label Imbalance in Graph Classification]([NA](https://doi.org/10.1109/ICASSP49660.2025.10889221))  
