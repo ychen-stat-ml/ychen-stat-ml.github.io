@@ -48,8 +48,8 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 
 # 🔥 News
 
-- *2025.5*: &nbsp;🎉🎉 Two papers were accepted to ICML 2025! Congratulations to Prof. Weizhong Zhang's group at Fudan and Tianyi!
-- *2025.4*: &nbsp;🎉🎉 One paper was accepted to ISIT 2025 (the flagship conference of the IEEE Information Theory Society)! Congratulations to Peng!
+- *2025.05*: &nbsp;🎉🎉 Two papers were accepted to ICML 2025! Congratulations to Prof. Weizhong Zhang's group at Fudan and Tianyi!
+- *2025.04*: &nbsp;🎉🎉 One paper was accepted to ISIT 2025 (the flagship conference of the IEEE Information Theory Society)! Congratulations to Peng!
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted to AAAI 2025, and another to ICASSP 2025 (a comprehensive conference focused on signal processing and its applications)! Congratulations to Prof. Xiaoqiang Li's group at SHU and Tianyi!
 <!-- - *2024.11*: &nbsp;🎉🎉 Two papers were accepted to KDD 2025! Congratulations to Prof. Jingrui He's group at UIUC! -->
 - *2024.10*: &nbsp;🎉🎉 Honored to be selected for funding by GDSTC General Program.
@@ -85,7 +85,7 @@ Yujia Yin\*✍, Tianyi Qu\*✉️, Zihao Wang, **Yifan Chen**✉️
 Xichen Ye✍, Yifan Wu✍, Weizhong Zhang✉️, Cheng Jin✉️, **Yifan Chen**✉️
 - ``ISIT 2025`` [Embedding Empirical Distributions for Computing Optimal Transport Maps](https://arxiv.org/abs/2504.17740)  
 Mingchen Jiang\*✍, Peng Xu\*✉️, Xichen Ye, Xiaohui Chen, Yun Yang, **Yifan Chen**✉️
-- ``ICASSP 2025`` [Catch Causal Signals from Edges for Label Imbalance in Graph Classification]([NA](https://doi.org/10.1109/ICASSP49660.2025.10889221))  
+- ``ICASSP 2025`` [Catch Causal Signals from Edges for Label Imbalance in Graph Classification](https://doi.org/10.1109/ICASSP49660.2025.10889221)  
 Fengrui Zhang\*✍, Yujia Yin\*✍, Hongzong Li, **Yifan Chen**✉️, Tianyi Qu✉️
 - ``AAAI 2025`` [Optimized Gradient Clipping for Noisy Label Learning](https://ojs.aaai.org/index.php/AAAI/article/view/33025)  
 Xichen Ye✍, Yifan Wu✍, Weizhong Zhang, Xiaoqiang Li✉️, **Yifan Chen**✉️, Cheng Jin
