@@ -35,9 +35,7 @@ I especially focus on <strong>non-parametric models</strong> and neural networks
 
 # 🕮 Teaching
 
-## Fall 24: COMP 2027 Applied Linear Algebra for Computing
-
-## Spring 24: COMP 7070 Advanced Topics in Artificial Intelligence and Machine Learning
+## Spring 25, Spring 24: COMP 7070 Advanced Topics in Artificial Intelligence and Machine Learning
 
 Overall, this course is an invitation to core machine learning for **AI application research**. It aims to familiarize the students with useful concepts in machine learning, and therefore to benefit their own research.
 
@@ -45,10 +43,14 @@ Overall, this course is an invitation to core machine learning for **AI applicat
 
 Scribed lecture notes can be found on [this page](/teaching.html).
 
+## Fall 24: COMP 2027 Applied Linear Algebra for Computing
+
 
 # 🔥 News
 
-- *2024.12*: &nbsp;🎉🎉 One papers was accepted to AAAI 2025, and another to ICASSP 2025 (a comprehensive conference focused on signal processing and its applications)! Congratulations to Prof. Xiaoqiang Li's group at SHU and Tianyi!
+- *2025.5*: &nbsp;🎉🎉 Two papers were accepted to ICML 2025! Congratulations to Prof. Weizhong Zhang's group at Fudan and Tianyi!
+- *2025.4*: &nbsp;🎉🎉 One paper was accepted to ISIT 2025 (the flagship conference of the IEEE Information Theory Society)! Congratulations to Peng!
+- *2024.12*: &nbsp;🎉🎉 One paper was accepted to AAAI 2025, and another to ICASSP 2025 (a comprehensive conference focused on signal processing and its applications)! Congratulations to Prof. Xiaoqiang Li's group at SHU and Tianyi!
 <!-- - *2024.11*: &nbsp;🎉🎉 Two papers were accepted to KDD 2025! Congratulations to Prof. Jingrui He's group at UIUC! -->
 - *2024.10*: &nbsp;🎉🎉 Honored to be selected for funding by GDSTC General Program.
 - *2024.09*: &nbsp;🎉🎉 Two papers were accepted to NeurIPS 2024!
@@ -72,14 +74,20 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 </div>
 </div> -->
 
-<!-- - ``KDD 2025`` [ResMoE: Space-efficient MoE Module Approximation via Wasserstein Barycenter and Residual Restoration](NA)  
+<!-- - ``KDD 2025`` [ResMoE: Space-efficient MoE Module Approximation via Wasserstein Barycenter and Residual Restoration](https://doi.org/10.1145/3690624.3709196)  
 Mengting Ai\*✍, Tianxin Wei\*, **Yifan Chen**\*✉️, Zhichen Zeng, Ritchie Zhao, Girish Varatkar, Bita Darvish Rouhani, Xianfeng Tang, Hanghang Tong, Jingrui He✉️
-- ``KDD 2025`` [Connecting Domains for Enhanced Generalization: An Approach to Integrating Data and Model Information](NA)  
+- ``KDD 2025`` [Connecting Domains and Contrasting Samples: A Ladder for Domain Generalization](https://doi.org/10.1145/3690624.3709280)  
 Tianxin Wei\*, **Yifan Chen**\*, Xinrui He, Wenxuan Bao, Jingrui He✉️ -->
 
-- ``ICASSP 2025`` [Catch Causal Signals from Edges for Label Imbalance in Graph Classification](NA)  
+- ``ICML 2025`` [A Recipe for Causal Graph Regression: Confounding Effects Revisited](NA)  
+Yujia Yin\*✍, Tianyi Qu\*✉️, Zihao Wang, **Yifan Chen**✉️
+- ``ICML 2025`` [Towards Robust Influence Functions with Flat Validation Minima](NA)  
+Xichen Ye✍, Yifan Wu✍, Cheng Jin✉️, Weizhong Zhang✉️, **Yifan Chen**✉️
+- ``ISIT 2025`` [Embedding Empirical Distributions for Computing Optimal Transport Maps](https://arxiv.org/abs/2504.17740)  
+Mingchen Jiang\*✍, Peng Xu\*✉️, Xichen Ye, Xiaohui Chen, Yun Yang, **Yifan Chen**✉️
+- ``ICASSP 2025`` [Catch Causal Signals from Edges for Label Imbalance in Graph Classification]([NA](https://doi.org/10.1109/ICASSP49660.2025.10889221))  
 Fengrui Zhang\*✍, Yujia Yin\*✍, Hongzong Li, **Yifan Chen**✉️, Tianyi Qu✉️
-- ``AAAI 2025`` [Optimized Gradient Clipping for Noisy Label Learning](NA)  
+- ``AAAI 2025`` [Optimized Gradient Clipping for Noisy Label Learning](https://ojs.aaai.org/index.php/AAAI/article/view/33025)  
 Xichen Ye✍, Yifan Wu✍, Weizhong Zhang, Xiaoqiang Li✉️, **Yifan Chen**✉️, Cheng Jin
 - ``NeurIPS 2024`` [Gliding over the Pareto Front with Uniform Designs](https://neurips.cc/virtual/2024/poster/94814)  
 Xiaoyuan Zhang, Genghui Li, Xi Lin, Yichi Zhang, **Yifan Chen**, Qingfu Zhang
