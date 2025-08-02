@@ -35,7 +35,7 @@ I especially focus on <strong>non-parametric models</strong> and neural networks
 
 # 🕮 Teaching
 
-## Spring 25, Spring 24: COMP 7070 Advanced Topics in Artificial Intelligence and Machine Learning
+## Fall 25, Spring 25, Spring 24: COMP 7070 Advanced Topics in Artificial Intelligence and Machine Learning
 
 Overall, this course is an invitation to core machine learning for **AI application research**. It aims to familiarize the students with useful concepts in machine learning, and therefore to benefit their own research.
 
@@ -43,7 +43,7 @@ Overall, this course is an invitation to core machine learning for **AI applicat
 
 Scribed lecture notes can be found on [this page](/teaching.html).
 
-## Fall 24: COMP 2027 Applied Linear Algebra for Computing
+## Fall 25, Fall 24: COMP 2027 Applied Linear Algebra for Computing
 
 
 # 🔥 News
@@ -60,6 +60,31 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 - *2023.04*: &nbsp;🎉🎉 I will join CS (and Math) @ Hong Kong Baptist University as an assistant professor in Fall 2023. 
 - *2023.04*: &nbsp;🎉🎉 Two papers were accepted to ICML 2023!
 
+# 📝 Group Members
+
+## PhD Students
+
+- Yifan Xu (Fall 2024)
+- Yujia Yin (Fall 2025)
+
+## Visiting RA
+
+- Yifan Wu
+<!-- - Jiahao Zhong -->
+
+## Alumni
+
+- Mingchen Jiang (former visiting RA, now PhD student at Institute of Science Tokyo)
+- Jiahao Ma (former visiting RA, now PhD student at HKU)
+- Xichen Ye (former visiting RA, now incoming PhD student at Fudan)
+- Guoming Li (former visiting RA, now incoming PhD student at NUS)
+- Fengrui Zhang (former visiting RA)
+<!-- - Jiaping Wang (former visiting RA) -->
+<!-- - Jialong Chen (former visiting RA) -->
+- Renjie Wu (former visiting RA, now PhD student at ANU)
+- Jinhong Ni (former visiting RA, now PhD student at ANU)
+
+
 # 📝 Publications
 
 \* Co-first author, ✍ Mentee, ✉️ Corresponding author
@@ -74,20 +99,21 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 </div>
 </div> -->
 
-<!-- - ``KDD 2025`` [ResMoE: Space-efficient MoE Module Approximation via Wasserstein Barycenter and Residual Restoration](https://doi.org/10.1145/3690624.3709196)  
+- ``KDD 2025`` [Partition-wise Graph Filtering: A Unified Perspective Through the Lens of Graph Coarsening](NA)  
+Guoming Li, Jian Yang, **Yifan Chen**✉️
+- ``KDD 2025`` [ResMoE: Space-efficient MoE Module Approximation via Wasserstein Barycenter and Residual Restoration](https://doi.org/10.1145/3690624.3709196)  
 Mengting Ai\*✍, Tianxin Wei\*, **Yifan Chen**\*✉️, Zhichen Zeng, Ritchie Zhao, Girish Varatkar, Bita Darvish Rouhani, Xianfeng Tang, Hanghang Tong, Jingrui He✉️
 - ``KDD 2025`` [Connecting Domains and Contrasting Samples: A Ladder for Domain Generalization](https://doi.org/10.1145/3690624.3709280)  
-Tianxin Wei\*, **Yifan Chen**\*, Xinrui He, Wenxuan Bao, Jingrui He✉️ -->
-
-- ``ICML 2025`` [A Recipe for Causal Graph Regression: Confounding Effects Revisited](NA)  
+Tianxin Wei\*, **Yifan Chen**\*, Xinrui He, Wenxuan Bao, Jingrui He✉️
+- ``ICML 2025`` [A Recipe for Causal Graph Regression: Confounding Effects Revisited](https://icml.cc/virtual/2025/poster/45617)  
 Yujia Yin\*✍, Tianyi Qu\*✉️, Zihao Wang, **Yifan Chen**✉️
-- ``ICML 2025`` [Towards Robust Influence Functions with Flat Validation Minima](NA)  
-Xichen Ye✍, Yifan Wu✍, Weizhong Zhang✉️, Cheng Jin✉️, **Yifan Chen**✉️
+- ``ICML 2025`` [Towards Robust Influence Functions with Flat Validation Minima](https://icml.cc/virtual/2025/poster/45098)  
+Xichen Ye✍, Yifan Wu✍, Weizhong Zhang✉️, Cheng Jin, **Yifan Chen**✉️
 - ``ISIT 2025`` [Embedding Empirical Distributions for Computing Optimal Transport Maps](https://arxiv.org/abs/2504.17740)  
 Mingchen Jiang\*✍, Peng Xu\*✉️, Xichen Ye, Xiaohui Chen, Yun Yang, **Yifan Chen**✉️
 - ``ICASSP 2025`` [Catch Causal Signals from Edges for Label Imbalance in Graph Classification](https://doi.org/10.1109/ICASSP49660.2025.10889221)  
 Fengrui Zhang\*✍, Yujia Yin\*✍, Hongzong Li, **Yifan Chen**✉️, Tianyi Qu✉️
-- ``AAAI 2025`` [Optimized Gradient Clipping for Noisy Label Learning](https://ojs.aaai.org/index.php/AAAI/article/view/33025)  
+- ``AAAI 2025`` [Optimized Gradient Clipping for Noisy Label Learning](https://doi.org/10.1609/aaai.v39i9.33025)  
 Xichen Ye✍, Yifan Wu✍, Weizhong Zhang, Xiaoqiang Li✉️, **Yifan Chen**✉️, Cheng Jin
 - ``NeurIPS 2024`` [Gliding over the Pareto Front with Uniform Designs](https://neurips.cc/virtual/2024/poster/94814)  
 Xiaoyuan Zhang, Genghui Li, Xi Lin, Yichi Zhang, **Yifan Chen**, Qingfu Zhang
