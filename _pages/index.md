@@ -81,8 +81,8 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 - Fengrui Zhang (former visiting RA)
 <!-- - Jiaping Wang (former visiting RA) -->
 <!-- - Jialong Chen (former visiting RA) -->
-- Renjie Wu (former visiting RA, now PhD student at ANU)
-- Jinhong Ni (former visiting RA, now PhD student at ANU)
+<!-- - Renjie Wu (former visiting RA, now PhD student at ANU) -->
+<!-- - Jinhong Ni (former visiting RA, now PhD student at ANU) -->
 
 
 # 📝 Publications
