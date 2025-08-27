@@ -50,6 +50,7 @@ Note that the detailed lecture schedule may change as the semester progresses, b
 - Lecture 8: Kernel Tricks and RKHS [🗈](/docs/7070/08.pdf)
 - Lecture 9: VAE [🗈](/docs/7070/09.pdf)
 - Lecture 10: GAN, WGAN, and duality [🗈](/docs/7070/10.pdf)
-- Lecture 11: Flow Models and Neural ODE [🗈](/docs/7070/11.pdf)
-- Lecture 12: From VAE to Diffusion Models [🗈](/docs/7070/12.pdf)
-- Lecture 13: Variants and Advances of Diffusion Models [🗈](/docs/7070/13.pdf)
+<!-- - Lecture 11: Flow Models and Neural ODE [🗈](/docs/7070/11.pdf) -->
+- Lecture 11: Duality and Flow models [🗈](/docs/7070/11.pdf)
+- Lecture 12: Neural ODE and Variational Diffusion Models [🗈](/docs/7070/12.pdf)
+- Lecture 13: From VAE to Diffusion Models [🗈](/docs/7070/13.pdf)

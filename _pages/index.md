@@ -48,13 +48,16 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 
 # 🔥 News
 
+- *2025.08*: &nbsp;🎉🎉 Honored to be awarded for funding by NSFC Young Scientists Fund.
+- *2025.08*: &nbsp;🎉🎉 One paper was accepted to CIKM 2025!
+- *2025.05*: &nbsp;🎉🎉 One paper was accepted to KDD 2025!
 - *2025.05*: &nbsp;🎉🎉 Two papers were accepted to ICML 2025! Congratulations to Prof. Weizhong Zhang's group at Fudan and Tianyi!
 - *2025.04*: &nbsp;🎉🎉 One paper was accepted to ISIT 2025 (the flagship conference of the IEEE Information Theory Society)! Congratulations to Peng!
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted to AAAI 2025, and another to ICASSP 2025 (a comprehensive conference focused on signal processing and its applications)! Congratulations to Prof. Xiaoqiang Li's group at SHU and Tianyi!
-<!-- - *2024.11*: &nbsp;🎉🎉 Two papers were accepted to KDD 2025! Congratulations to Prof. Jingrui He's group at UIUC! -->
+- *2024.11*: &nbsp;🎉🎉 Two papers were accepted to KDD 2025! Congratulations to Prof. Jingrui He's group at UIUC!
 - *2024.10*: &nbsp;🎉🎉 Honored to be selected for funding by GDSTC General Program.
 - *2024.09*: &nbsp;🎉🎉 Two papers were accepted to NeurIPS 2024!
-<!-- - *2024.06*: &nbsp;🎉🎉 Honored to receive the proposal grant RGC Early Career Scheme. -->
+- *2024.06*: &nbsp;🎉🎉 Honored to receive the proposal grant RGC Early Career Scheme.
 - *2023.09*: &nbsp;🎉🎉 One paper was accepted to NeurIPS 2023! Congratulations to Xiaoyuan and other collaborators from Prof. Qingfu Zhang's group at CityU!
 - *2023.07*: I am looking for self-motivated **(visiting) Ph.D. students / (remote) research assistants** to work with me on machine learning. Fellowships / salaries are provided to qualified candidates. Any interested applicants can directly send me your **CV** and a brief introduction to your **research interest** to "ychen.stat.ML@outlook.com". Please refer to the [Zhihu post](https://zhuanlan.zhihu.com/p/651070296) for more details.
 - *2023.04*: &nbsp;🎉🎉 I will join CS (and Math) @ Hong Kong Baptist University as an assistant professor in Fall 2023. 
@@ -99,7 +102,9 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 </div>
 </div> -->
 
-- ``KDD 2025`` [Partition-wise Graph Filtering: A Unified Perspective Through the Lens of Graph Coarsening](NA)  
+- ``CIKM 2025`` [From Policy Comparison to Process Consistency and Beyond](NA)  
+Yifan Xu\*✍, Yujia Yin\*✍, Yiming Xing, **Yifan Chen**✉️
+- ``KDD 2025`` [Partition-wise Graph Filtering: A Unified Perspective Through the Lens of Graph Coarsening](https://doi.org/10.1145/3711896.3737075)  
 Guoming Li, Jian Yang, **Yifan Chen**✉️
 - ``KDD 2025`` [ResMoE: Space-efficient MoE Module Approximation via Wasserstein Barycenter and Residual Restoration](https://doi.org/10.1145/3690624.3709196)  
 Mengting Ai\*✍, Tianxin Wei\*, **Yifan Chen**\*✉️, Zhichen Zeng, Ritchie Zhao, Girish Varatkar, Bita Darvish Rouhani, Xianfeng Tang, Hanghang Tong, Jingrui He✉️
