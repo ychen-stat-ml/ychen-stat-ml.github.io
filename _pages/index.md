@@ -48,6 +48,8 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 
 # 🔥 News
 
+- *2025.11*: &nbsp;🎉🎉 One paper was accepted to AAAI 2026! Congratulations to Dr. Qiaosheng Zhang!
+- *2025.09*: &nbsp;🎉🎉 One paper was accepted to WACV 2026! Congratulations to Prof. Wenyi Zhang's group at USTC!
 - *2025.08*: &nbsp;🎉🎉 Honored to be awarded for funding by NSFC Young Scientists Fund.
 - *2025.08*: &nbsp;🎉🎉 One paper was accepted to CIKM 2025!
 - *2025.05*: &nbsp;🎉🎉 One paper was accepted to KDD 2025!
@@ -70,18 +72,20 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 - Yifan Xu (Fall 2024)
 - Yujia Yin (Fall 2025)
 
+<!-- 
 ## Visiting RA
 
 - Yifan Wu
-<!-- - Jiahao Zhong -->
+- Jiahao Zhong -->
 
 ## Alumni
 
 - Mingchen Jiang (former visiting RA, now PhD student at Institute of Science Tokyo)
 - Jiahao Ma (former visiting RA, now PhD student at HKU)
-- Xichen Ye (former visiting RA, now incoming PhD student at Fudan)
-- Guoming Li (former visiting RA, now incoming PhD student at NUS)
-- Fengrui Zhang (former visiting RA)
+- Xichen Ye (former visiting RA, now PhD student at Fudan)
+<!-- - Fengrui Zhang (former visiting RA, now PhD student at NJU) -->
+- Guoming Li (former visiting RA)
+- Yifan Wu (former visiting RA, now MSC student at CUHK)
 <!-- - Jiaping Wang (former visiting RA) -->
 <!-- - Jialong Chen (former visiting RA) -->
 <!-- - Renjie Wu (former visiting RA, now PhD student at ANU) -->
@@ -102,10 +106,14 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 </div>
 </div> -->
 
-- ``CIKM 2025`` [From Policy Comparison to Process Consistency and Beyond](NA)  
+- ``AAAI 2026`` [Robust RLHF for Human Preference with Instance-Dependent Flipping](https://doi.org/10.13140/RG.2.2.31161.48480)  
+Yifan Xu✍, Xichen Ye✍, **Yifan Chen**✉️, Qiaosheng Zhang
+- ``WACV 2026`` [Optimizing LVLMs with On-Policy Data for Effective Hallucination Mitigation](NA)  
+Chengzhi Yu\*, Yifan Xu\*✍, **Yifan Chen**, Wenyi Zhang
+- ``CIKM 2025`` [From Policy Comparison to Process Consistency and Beyond](https://dl.acm.org/doi/10.1145/3746252.3761115)  
 Yifan Xu\*✍, Yujia Yin\*✍, Yiming Xing, **Yifan Chen**✉️
 - ``KDD 2025`` [Partition-wise Graph Filtering: A Unified Perspective Through the Lens of Graph Coarsening](https://doi.org/10.1145/3711896.3737075)  
-Guoming Li, Jian Yang, **Yifan Chen**✉️
+Guoming Li✍, Jian Yang, **Yifan Chen**✉️
 - ``KDD 2025`` [ResMoE: Space-efficient MoE Module Approximation via Wasserstein Barycenter and Residual Restoration](https://doi.org/10.1145/3690624.3709196)  
 Mengting Ai\*✍, Tianxin Wei\*, **Yifan Chen**\*✉️, Zhichen Zeng, Ritchie Zhao, Girish Varatkar, Bita Darvish Rouhani, Xianfeng Tang, Hanghang Tong, Jingrui He✉️
 - ``KDD 2025`` [Connecting Domains and Contrasting Samples: A Ladder for Domain Generalization](https://doi.org/10.1145/3690624.3709280)  
@@ -117,7 +125,7 @@ Xichen Ye✍, Yifan Wu✍, Weizhong Zhang✉️, Cheng Jin, **Yifan Chen**✉️
 - ``ISIT 2025`` [Embedding Empirical Distributions for Computing Optimal Transport Maps](https://arxiv.org/abs/2504.17740)  
 Mingchen Jiang\*✍, Peng Xu\*✉️, Xichen Ye, Xiaohui Chen, Yun Yang, **Yifan Chen**✉️
 - ``ICASSP 2025`` [Catch Causal Signals from Edges for Label Imbalance in Graph Classification](https://doi.org/10.1109/ICASSP49660.2025.10889221)  
-Fengrui Zhang\*✍, Yujia Yin\*✍, Hongzong Li, **Yifan Chen**✉️, Tianyi Qu✉️
+Fengrui Zhang\*, Yujia Yin\*✍, Hongzong Li, **Yifan Chen**✉️, Tianyi Qu✉️
 - ``AAAI 2025`` [Optimized Gradient Clipping for Noisy Label Learning](https://doi.org/10.1609/aaai.v39i9.33025)  
 Xichen Ye✍, Yifan Wu✍, Weizhong Zhang, Xiaoqiang Li✉️, **Yifan Chen**✉️, Cheng Jin
 - ``NeurIPS 2024`` [Gliding over the Pareto Front with Uniform Designs](https://neurips.cc/virtual/2024/poster/94814)  
