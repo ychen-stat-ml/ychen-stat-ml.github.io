@@ -48,7 +48,10 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 
 # 🔥 News
 
-- *2025.11*: &nbsp;🎉🎉 One paper was accepted to AAAI 2026! Congratulations to Dr. Qiaosheng Zhang!
+
+- *2026.02*: I am looking for self-motivated **Ph.D. students** to work with me on machine learning. Fellowships / salaries are provided to qualified candidates. Any interested applicants can directly send me your **CV** and a brief introduction to your **research interest** to "ychen.stat.ML@outlook.com". Please refer to the [Zhihu post](https://zhuanlan.zhihu.com/p/651070296) for more details.
+- *2026.01*: &nbsp;🎉🎉 One paper was accepted to ICASSP 2026 (a comprehensive conference focused on signal processing and its applications)! Congratulations to Prof. Yiming Xing at Tongji and Tianyi!
+- *2025.11*: &nbsp;🎉🎉 One paper was accepted to AAAI 2026! Congratulations to Dr. Qiaosheng Zhang at Shanghai AI Lab!
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted to WACV 2026! Congratulations to Prof. Wenyi Zhang's group at USTC!
 - *2025.08*: &nbsp;🎉🎉 Honored to be awarded for funding by NSFC Young Scientists Fund.
 - *2025.08*: &nbsp;🎉🎉 One paper was accepted to CIKM 2025!
@@ -61,7 +64,6 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 - *2024.09*: &nbsp;🎉🎉 Two papers were accepted to NeurIPS 2024!
 - *2024.06*: &nbsp;🎉🎉 Honored to receive the proposal grant RGC Early Career Scheme.
 - *2023.09*: &nbsp;🎉🎉 One paper was accepted to NeurIPS 2023! Congratulations to Xiaoyuan and other collaborators from Prof. Qingfu Zhang's group at CityU!
-- *2023.07*: I am looking for self-motivated **(visiting) Ph.D. students / (remote) research assistants** to work with me on machine learning. Fellowships / salaries are provided to qualified candidates. Any interested applicants can directly send me your **CV** and a brief introduction to your **research interest** to "ychen.stat.ML@outlook.com". Please refer to the [Zhihu post](https://zhuanlan.zhihu.com/p/651070296) for more details.
 - *2023.04*: &nbsp;🎉🎉 I will join CS (and Math) @ Hong Kong Baptist University as an assistant professor in Fall 2023. 
 - *2023.04*: &nbsp;🎉🎉 Two papers were accepted to ICML 2023!
 
@@ -106,6 +108,10 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 </div>
 </div> -->
 
+- ``ICASSP 2026`` [Sequential Multiple Testing with Three Hypotheses and Known Number of Streams Following Each Hypothesis](https://doi.org/10.13140/RG.2.2.14922.43209)  
+Yiming Xing\*✉️, **Yifan Chen**\*, Tianyi Qu\*
+- ``TMLR`` [DiffKGW: Stealthy and Robust Diffusion Model Watermarking](https://openreview.net/forum?id=OXi9vcIOgD)  
+Tianxin Wei, Ruizhong Qiu, **Yifan Chen**, Yunzhe Qi, Jiacheng Lin, Wenxuan Bao, Wenju Xu, Sreyashi Nag, Ruirui Li, Hanqing Lu, Zhengyang Wang, Chen Luo, Hui Liu, Suhang Wang, Jingrui He, Qi He, Xianfeng Tang. *To appear* in Transactions on Machine Learning Research (TMLR), 2026.
 - ``AAAI 2026`` [Robust RLHF for Human Preference with Instance-Dependent Flipping](https://doi.org/10.13140/RG.2.2.31161.48480)  
 Yifan Xu✍, Xichen Ye✍, **Yifan Chen**✉️, Qiaosheng Zhang
 - ``WACV 2026`` [Optimizing LVLMs with On-Policy Data for Effective Hallucination Mitigation](NA)  
