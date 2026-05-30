@@ -112,7 +112,7 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 Jiaping Wang✍, Yifan Xu✍, Yifan Chen, Jianwen Li
 - ``ICASSP 2026`` [Sequential Multiple Testing with Three Hypotheses and Known Number of Streams Following Each Hypothesis](https://doi.org/10.13140/RG.2.2.14922.43209)  
 Yiming Xing\*✉️, **Yifan Chen**\*, Tianyi Qu\*
-- <span class="badge-journal">TMLR</span> [DiffKGW: Stealthy and Robust Diffusion Model Watermarking](https://openreview.net/forum?id=OXi9vcIOgD)  
+- <span class="highlighter-journal">TMLR</span> [DiffKGW: Stealthy and Robust Diffusion Model Watermarking](https://openreview.net/forum?id=OXi9vcIOgD)  
 Tianxin Wei, Ruizhong Qiu, **Yifan Chen**, Yunzhe Qi, Jiacheng Lin, Wenxuan Bao, Wenju Xu, Sreyashi Nag, Ruirui Li, Hanqing Lu, Zhengyang Wang, Chen Luo, Hui Liu, Suhang Wang, Jingrui He, Qi He, Xianfeng Tang. *To appear* in Transactions on Machine Learning Research (TMLR), 2026.
 - ``AAAI 2026`` [When Human Preferences Flip: An Instance-Dependent Robust Loss for RLHF](https://ojs.aaai.org/index.php/AAAI/article/view/41143)  
 Yifan Xu✍, Xichen Ye✍, **Yifan Chen**✉️, Qiaosheng Zhang

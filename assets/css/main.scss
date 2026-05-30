@@ -108,13 +108,12 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.badge-journal {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00695c;
-    font-size: .8em;
+.highlighter-journal {
+  color: white;
+  margin-bottom: 0em;
+  padding: 0em;
+  font-size: $type-size-7;
+  border: 0px solid $border-color;
+  border-radius: 0;
+  background-color: #00695c;
 }
