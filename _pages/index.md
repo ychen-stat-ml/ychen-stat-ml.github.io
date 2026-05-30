@@ -48,7 +48,7 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 
 # 🔥 News
 
-
+- *2026.03*: One paper was accepted to IJCNN 2026! Congratulations to Jiaping's graduation!
 - *2026.02*: I am looking for self-motivated **Ph.D. students** to work with me on machine learning. Fellowships / salaries are provided to qualified candidates. Any interested applicants can directly send me your **CV** and a brief introduction to your **research interest** to "ychen.stat.ML@outlook.com". Please refer to the [Zhihu post](https://zhuanlan.zhihu.com/p/651070296) for more details.
 - *2026.01*: &nbsp;🎉🎉 One paper was accepted to ICASSP 2026 (a comprehensive conference focused on signal processing and its applications)! Congratulations to Prof. Yiming Xing at Tongji and Tianyi!
 - *2025.11*: &nbsp;🎉🎉 One paper was accepted to AAAI 2026! Congratulations to Dr. Qiaosheng Zhang at Shanghai AI Lab!
@@ -88,7 +88,7 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 <!-- - Fengrui Zhang (former visiting RA, now PhD student at NJU) -->
 - Guoming Li (former visiting RA)
 - Yifan Wu (former visiting RA, now MSC student at CUHK)
-<!-- - Jiaping Wang (former visiting RA) -->
+- Jiaping Wang (former visiting RA)
 <!-- - Jialong Chen (former visiting RA) -->
 <!-- - Renjie Wu (former visiting RA, now PhD student at ANU) -->
 <!-- - Jinhong Ni (former visiting RA, now PhD student at ANU) -->
@@ -108,11 +108,13 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 </div>
 </div> -->
 
+- ``IJCNN 2026`` [Light Wings: More Efficient Speculative Decoding via Linear Attention](-)  
+Jiaping Wang✍, Yifan Xu✍, Yifan Chen, Jianwen Li
 - ``ICASSP 2026`` [Sequential Multiple Testing with Three Hypotheses and Known Number of Streams Following Each Hypothesis](https://doi.org/10.13140/RG.2.2.14922.43209)  
 Yiming Xing\*✉️, **Yifan Chen**\*, Tianyi Qu\*
-- ``TMLR`` [DiffKGW: Stealthy and Robust Diffusion Model Watermarking](https://openreview.net/forum?id=OXi9vcIOgD)  
+- <div class="badge-journal">TMLR</div> [DiffKGW: Stealthy and Robust Diffusion Model Watermarking](https://openreview.net/forum?id=OXi9vcIOgD)  
 Tianxin Wei, Ruizhong Qiu, **Yifan Chen**, Yunzhe Qi, Jiacheng Lin, Wenxuan Bao, Wenju Xu, Sreyashi Nag, Ruirui Li, Hanqing Lu, Zhengyang Wang, Chen Luo, Hui Liu, Suhang Wang, Jingrui He, Qi He, Xianfeng Tang. *To appear* in Transactions on Machine Learning Research (TMLR), 2026.
-- ``AAAI 2026`` [Robust RLHF for Human Preference with Instance-Dependent Flipping](https://doi.org/10.13140/RG.2.2.31161.48480)  
+- ``AAAI 2026`` [When Human Preferences Flip: An Instance-Dependent Robust Loss for RLHF](https://ojs.aaai.org/index.php/AAAI/article/view/41143)  
 Yifan Xu✍, Xichen Ye✍, **Yifan Chen**✉️, Qiaosheng Zhang
 - ``WACV 2026`` [Optimizing LVLMs with On-Policy Data for Effective Hallucination Mitigation](NA)  
 Chengzhi Yu\*, Yifan Xu\*✍, **Yifan Chen**, Wenyi Zhang
