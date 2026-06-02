@@ -29,13 +29,13 @@ Before that, I received my B.S. degree in Statistics from Fudan University in 20
 
 # 💻 Research
 
-I am broadly interested in the general area of **efficient machine learning**, aiming to understand the statistical structures of modern machine learning algorithms and apply these insights to real-world computational challenges.
-I especially focus on <strong>non-parametric models</strong> and neural networks with intensive matrix operations, such as <strong>Transformers</strong> (language models) and graph neural networks (<strong>GNNs</strong>).
+I am broadly interested in the area of **Geometric and Responsible Data Science**, aiming to understand the statistical structures of modern machine learning algorithms and apply these insights to real-world computational challenges.
+I especially focus on <strong>graph, time-series, and multimodal</strong> data and associated neural networks with intensive matrix operations, such as <strong>Transformers</strong> (language models) and graph neural networks (<strong>GNNs</strong>).
 
 
 # 🕮 Teaching
 
-## Fall 25, Spring 25, Spring 24: COMP 7070 Advanced Topics in Artificial Intelligence and Machine Learning
+## Fall 26, Fall 25, Spring 25, Spring 24: COMP 7070 Advanced Topics in Artificial Intelligence and Machine Learning
 
 Overall, this course is an invitation to core machine learning for **AI application research**. It aims to familiarize the students with useful concepts in machine learning, and therefore to benefit their own research.
 
@@ -48,6 +48,8 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 
 # 🔥 News
 
+- *2026.06*: One paper was accepted to UAI 2026!
+- *2026.05*: One journal paper was accepted to Communications Biology (CAS Q1 journal)! Congratulations to Prof. Jian-Dong Huang at HKUMed and Ye-Fan!
 - *2026.03*: One paper was accepted to IJCNN 2026! Congratulations to Jiaping's graduation!
 - *2026.02*: I am looking for self-motivated **Ph.D. students** to work with me on machine learning. Fellowships / salaries are provided to qualified candidates. Any interested applicants can directly send me your **CV** and a brief introduction to your **research interest** to "ychen.stat.ML@outlook.com". Please refer to the [Zhihu post](https://zhuanlan.zhihu.com/p/651070296) for more details.
 - *2026.01*: &nbsp;🎉🎉 One paper was accepted to ICASSP 2026 (a comprehensive conference focused on signal processing and its applications)! Congratulations to Prof. Yiming Xing at Tongji and Tianyi!
@@ -88,7 +90,7 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 <!-- - Fengrui Zhang (former visiting RA, now PhD student at NJU) -->
 - Guoming Li (former visiting RA)
 - Yifan Wu (former visiting RA, now MSC student at CUHK)
-- Jiaping Wang (former visiting RA)
+- Jiaping Wang (former visiting RA, now working at Alibaba)
 <!-- - Jialong Chen (former visiting RA) -->
 <!-- - Renjie Wu (former visiting RA, now PhD student at ANU) -->
 <!-- - Jinhong Ni (former visiting RA, now PhD student at ANU) -->
@@ -108,12 +110,19 @@ Scribed lecture notes can be found on [this page](/teaching.html).
 </div>
 </div> -->
 
+
+- ``UAI 2026`` [Remedying Coarsening-Based GNN Training under Heterophily via Adaptive Complementary Enhancement](-)  
+Guoming Li✍, Jian Yang, Xukun Wang, Zixiao Wang, Shangsong Liang, **Yifan Chen**✉️
+- <code class="highlighter-rouge badge-journal">CommsBio</code> [Pretrained Models May Fail to Capture Immunological Sequences](-)  
+Jiahao Ma\*✍, Hongzong Li\*, Jian-Dong Huang✉️, Ye-Fan Hu✉️, **Yifan Chen**✉️  
+*To appear* in Communications Biology (CommsBio), 2026+.
 - ``IJCNN 2026`` [Light Wings: More Efficient Speculative Decoding via Linear Attention](-)  
 Jiaping Wang✍, Yifan Xu✍, Yifan Chen, Jianwen Li
 - ``ICASSP 2026`` [Sequential Multiple Testing with Three Hypotheses and Known Number of Streams Following Each Hypothesis](https://doi.org/10.13140/RG.2.2.14922.43209)  
 Yiming Xing\*✉️, **Yifan Chen**\*, Tianyi Qu\*
 - <code class="highlighter-rouge badge-journal">TMLR</code> [DiffKGW: Stealthy and Robust Diffusion Model Watermarking](https://openreview.net/forum?id=OXi9vcIOgD)  
-Tianxin Wei, Ruizhong Qiu, **Yifan Chen**, Yunzhe Qi, Jiacheng Lin, Wenxuan Bao, Wenju Xu, Sreyashi Nag, Ruirui Li, Hanqing Lu, Zhengyang Wang, Chen Luo, Hui Liu, Suhang Wang, Jingrui He, Qi He, Xianfeng Tang. *To appear* in Transactions on Machine Learning Research (TMLR), 2026.
+Tianxin Wei, Ruizhong Qiu, **Yifan Chen**, Yunzhe Qi, Jiacheng Lin, Wenxuan Bao, Wenju Xu, Sreyashi Nag, Ruirui Li, Hanqing Lu, Zhengyang Wang, Chen Luo, Hui Liu, Suhang Wang, Jingrui He, Qi He, Xianfeng Tang.  
+Transactions on Machine Learning Research (TMLR), 2026.
 - ``AAAI 2026`` [When Human Preferences Flip: An Instance-Dependent Robust Loss for RLHF](https://ojs.aaai.org/index.php/AAAI/article/view/41143)  
 Yifan Xu✍, Xichen Ye✍, **Yifan Chen**✉️, Qiaosheng Zhang
 - ``WACV 2026`` [Optimizing LVLMs with On-Policy Data for Effective Hallucination Mitigation](NA)  
@@ -146,8 +155,9 @@ Xiaoyuan Zhang, Bo Xue, Xi Lin, **Yifan Chen**✉️, Qingfu Zhang✉️
 **Yifan Chen**, Rentian Yao, Yun Yang, Jie Chen
 - ``ICML 2023`` [NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning](https://proceedings.mlr.press/v202/wei23b.html)  
 Tianxin Wei\*, Zeming Guo\*✍, **Yifan Chen**\*✉️, Jingrui He✉️
-- ``TMLR`` [Calibrate and Debias Layer-wise Sampling for Graph Convolutional Networks](https://openreview.net/forum?id=JyKNuoZGux)  
-**Yifan Chen**\*, Tianning Xu\*, Dilek Hakkani-Tur, Di Jin, Yun Yang, Ruoqing Zhu. Transactions on Machine Learning Research (TMLR), 2023.
+- <code class="highlighter-rouge badge-journal">TMLR</code> [Calibrate and Debias Layer-wise Sampling for Graph Convolutional Networks](https://openreview.net/forum?id=JyKNuoZGux)  
+**Yifan Chen**\*, Tianning Xu\*, Dilek Hakkani-Tur, Di Jin, Yun Yang, Ruoqing Zhu.  
+Transactions on Machine Learning Research (TMLR), 2023.
 - ``EMNLP 2022`` <span style="color:red">(Oral)</span> [Inducer-tuning: Connecting Prefix-tuning and Adapter-tuning](https://aclanthology.org/2022.emnlp-main.50/)  
 **Yifan Chen**\*, Devamanyu Hazarika\*, Mahdi Namazifar, Yang Liu, Di Jin, Dilek Hakkani-Tur
 - ``NAACL 2022`` <span style="color:red">(Oral)</span> [Sketching as a Tool for Understanding and Accelerating Self-attention for Long Sequences](https://aclanthology.org/2022.naacl-main.381/)  
